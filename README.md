@@ -17,7 +17,6 @@ Una aplicación de escritorio ligera y potente que conecta tus transmisiones de 
 * **Conexión a TikTok:** `TikTokLive` (Librería de Python).
 * **Frontend:** HTML5, CSS3, JavaScript puro (UI moderna y reactiva).
 * **Base de Datos & Auth:** Firebase Firestore y Firebase Authentication.
-* **Distribución:** PyInstaller + PyArmor (Ofuscación y empaquetado en `.exe`).
 
 ## 🚀 Instalación y Uso
 
